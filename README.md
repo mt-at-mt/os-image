@@ -621,6 +621,7 @@ Default Boot Loader Entry:
       version: 1.0
         linux: /boot//EFI/Linux/iris-6.6.25-iris_rt_defconfig-4bada3e4b9b33b2ee2185043c87b6ca3b2d46c06644ba0fcf89425f8dc093c2f.efi
       options: usrhash=4bada3e4b9b33b2ee2185043c87b6ca3b2d46c06644ba0fcf89425f8dc093c2f efi=runtime rng_core.default_quality=1000 systemd.tpm2_wait=true
+```
 
 ## Upgrades with systemd-sysupdate
 
